@@ -11,3 +11,9 @@
 .cooler {
     font-size: 24px;
 }
+
+#another {
+    background-color: rgb(133, 253, 134);
+    font-size: 24px;
+    font-weight: bold;
+}
