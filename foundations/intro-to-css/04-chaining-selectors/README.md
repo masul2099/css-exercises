@@ -17,5 +17,8 @@ The properties you need to add to each element are:
 
 ### Self Check
 - Did you properly chain class selectors for each rule?
+  Yes, like .class1.class2 { p1:v1; p2:v2; }
 - Does the `proportioned` image retain its original square proportions?
+  Yes, because the value of the height propety is auto
 - Does the `distorted` image end up looking squished and, well, distorted?
+  Yes, because height was manually altered with css
