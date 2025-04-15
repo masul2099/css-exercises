@@ -21,6 +21,7 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
+  padding-right: 16px;
 }
 
 .alert {
@@ -44,7 +45,7 @@ body {
   background: #eee;
   border-radius: 50%;
   color: #888;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 16px;
   height: 24px;
   width: 24px;
@@ -53,6 +54,7 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+  margin-left: auto;
 }
 
 button {
@@ -71,4 +73,10 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.header {
+  display: flex;
+  font-weight: 800;
+  padding: 12px 0px;
 }
