@@ -21,4 +21,7 @@ Depending on how you approach this one, you might need to revisit the `flex-shri
 - The header is bold and a slightly larger text-size than the text.
 * Bolder, yes, larger, no
 - The close button is vertically aligned with the header, and aligned in the top-right of the card.
-* Wuth auto margin, but not vertically aligned
+* With auto margin, but not vertically aligned
+
+**Solution
+
