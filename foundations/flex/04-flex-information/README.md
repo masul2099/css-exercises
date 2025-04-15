@@ -11,9 +11,18 @@ For this one you will need to edit the HTML a little bit too. We can't be making
 ### Self Check
 
 - All items are centered on the page (horizontally, not vertically).
+* Only aligned items horizontally with d-flex
 - The title is centered on the page.
+* With d-flex
 - There is 32px between the title and the 'items.'
+* Added mb of 22px
 - There is 52px between each item.
+* No gap, only justified with space-around
 - The items are arranged horizontally on the page.
+* Yes
 - The items are only 200px wide and the text wraps.
+* No, added flex-basis of 200px, and added d-flex 
+  and changed flex-direction to column, and aligned img
+  with auto margins
 - The item text is centered.
+* Yes, with text-align
