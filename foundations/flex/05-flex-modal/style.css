@@ -80,3 +80,7 @@ button.cancel {
   font-weight: 800;
   padding: 12px 0px;
 }
+
+.buttons {
+  margin: 16px 0px;
+}
