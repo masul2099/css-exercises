@@ -26,3 +26,9 @@ For this one you will need to edit the HTML a little bit too. We can't be making
   with auto margins
 - The item text is centered.
 * Yes, with text-align
+
+**Solution
+
+- .title is aligned with text-align: center in body selector
+- .plants has d-flex with content justified in center with gap of 52px
+- .info has a max-width of 200px
