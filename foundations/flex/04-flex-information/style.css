@@ -3,6 +3,7 @@ body {
 }
 
 img {
+  display: block;
   width: 100px;
   height: 100px;
 }
@@ -30,4 +31,19 @@ img {
 
 .plants {
   display: flex;
+  justify-content: space-around;
+}
+
+.plant {
+  flex-basis: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.plant img {
+  margin: auto;
+}
+
+.plant .text {
+  text-align: center;
 }
