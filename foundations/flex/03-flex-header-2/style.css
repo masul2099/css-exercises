@@ -47,3 +47,8 @@ a {
 ul {
   list-style-type: none;
 }
+
+.items {
+  margin-left: auto;
+  display: flex;
+}
