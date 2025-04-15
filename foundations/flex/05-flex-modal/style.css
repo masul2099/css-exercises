@@ -23,6 +23,10 @@ body {
   display: flex;
 }
 
+.alert {
+  padding: 12px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
