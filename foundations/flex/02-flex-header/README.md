@@ -23,3 +23,5 @@ wide:
 * No, just flexbox
 
 - Note: For this exercise, it's completely acceptable to not match the font-family.
+
+**Correction - Set margin to 0 in ul and align items vertically in header
