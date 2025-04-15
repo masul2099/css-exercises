@@ -24,3 +24,5 @@ As with the last example, this one needs to be flexible in the middle, with item
 * 12px gap in all flex items
 - flex is used to arrange everything.
 * Yes
+
+**Approach was slightly different than solution but it works and it is similar
