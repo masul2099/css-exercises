@@ -50,6 +50,10 @@ ul {
   padding: 0;
 }
 
+ul li {
+  padding: 8px;
+}
+
 a {
   text-decoration: none;
   color: white;
