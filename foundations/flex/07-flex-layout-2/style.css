@@ -19,7 +19,6 @@ body {
   height: 72px;
   background: #eee;
   color: darkmagenta;
-  text-align: center;
 }
 
 .sidebar {
@@ -60,4 +59,18 @@ ul li {
 a {
   text-decoration: none;
   color: white;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  
 }
