@@ -42,3 +42,14 @@ body {
   gap: 22px;
   padding: 42px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
